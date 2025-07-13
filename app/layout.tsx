@@ -10,7 +10,7 @@ import Footer from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Tabsiya Yegurage Kitfo - Authentic Ethiopian Restaurant",
+  title: "Jeforenda Yegurage Kitfo - Authentic Ethiopian Restaurant",
   description: "Experience authentic Gurage kitfo and traditional Ethiopian cuisine in a warm, welcoming atmosphere.",
   keywords: "Ethiopian restaurant, Gurage kitfo, traditional food, authentic cuisine",
 }

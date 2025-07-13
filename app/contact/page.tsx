@@ -45,7 +45,7 @@ export default function ContactPage() {
             <div
               className="w-full h-full bg-cover bg-center bg-no-repeat"
               style={{
-                backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/ktfo 3.jpg')`,
+                backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/jefore 1.jpg')`,
               }}
             ></div>
           </div>
@@ -117,7 +117,7 @@ export default function ContactPage() {
               <CardContent>
                 <p className="text-muted-foreground mb-2">
                   <a href="mailto:info@tabsiya.com" className="hover:text-orange-600 transition-colors">
-                    info@tabsiya.com
+                    info@jeforenda.com
                   </a>
                 </p>
                 <p className="text-sm text-muted-foreground">Email us for general inquiries or catering requests</p>

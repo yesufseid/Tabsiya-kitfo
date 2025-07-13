@@ -15,7 +15,7 @@ export default function GoogleMap({ address = "123 Ethiopian Street, City, State
 
   const mapUrl = `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.9663095343008!2d-74.00425878459418!3d40.74844097932681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9b3117469%3A0xd134e199a405a163!2sTabsiya%20Yegurage%20Kitfo!5e0!3m2!1sen!2sus!4v1635959542742!5m2!1sen!2sus`
 
-  const directionsUrl = `https://www.google.com/maps/place/Tabsiya+Yegurage+Kitfo/@8.287857,37.7773968,17z/data=!3m1!4b1!4m6!3m5!1s0x17b2cfc40a16e139:0x626a94c3ccce35d7!8m2!3d8.287857!4d37.7799717!16s%2Fg%2F11tcx5kry5?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D`
+  const directionsUrl=`https://www.google.com/maps/place/Jeforenda+yegura+kitfo/@8.2878263,37.7783308,15z/data=!4m6!3m5!1s0x17b2cf2f19176f69:0xb3eef7607dd516ef!8m2!3d8.2879446!4d37.7783142!16s%2Fg%2F11v68vsggy?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D`
 
   return (
     <Card className={`hover:shadow-lg transition-shadow duration-300 ${className}`}>

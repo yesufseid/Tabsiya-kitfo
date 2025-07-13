@@ -59,17 +59,16 @@ export default function HomePage() {
       {/* Hero Section with Video Background */}
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         {/* Video Background */}
-        <div className="absolute inset-0 z-0">
+        <div className="absolute inset-0 z-0  ">
           <video
             autoPlay
             muted
             loop
-            className="w-full h-full object-cover"
-            
+            className="w-full h-full object-cover object-center"
           >
-            <source src="/hero.mp4" type="video/mp4" />
+            <source src="/je 6.mp4" type="video/mp4" />
           </video>
-          <div className="absolute inset-0 bg-black/50"></div>
+          <div className="absolute inset-0 bg-black/5"></div>
         </div>
 
         {/* Hero Content */}

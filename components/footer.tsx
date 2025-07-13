@@ -17,7 +17,7 @@ export default function Footer() {
               <div className="w-8 h-8 bg-white rounded-full flex items-center justify-center">
                 <span className="text-orange-600 font-bold text-sm">T</span>
               </div>
-              <span className="font-bold text-lg">Tabsiya Yegurage Kitfo</span>
+              <span className="font-bold text-lg">Jeforenda Yegurage Kitfo</span>
             </div>
             <p className="text-orange-100 text-sm">Authentic Ethiopian cuisine served with tradition and love.</p>
             <div className="flex space-x-4">
@@ -57,7 +57,7 @@ export default function Footer() {
               </div>
               <div className="flex items-center space-x-2 text-orange-100">
                 <Mail className="h-4 w-4" />
-                <span className="text-sm">info@tabsiya.com</span>
+                <span className="text-sm">info@jeforenda.com</span>
               </div>
             </div>
           </div>

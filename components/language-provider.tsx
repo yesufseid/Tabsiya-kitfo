@@ -18,7 +18,7 @@ const translations = {
     "nav.contact": "Contact",
 
     // Hero Section
-    "hero.title": "Tabsiya Yegurage Kitfo",
+    "hero.title": "Jeforenda Yegurage Kitfo",
     "hero.subtitle": "Authentic Gurage Kitfo Experience",
     "hero.description": "Discover the rich flavors of traditional Ethiopian cuisine in our warm, welcoming restaurant.",
     "hero.viewMenu": "View Menu",
@@ -57,7 +57,7 @@ const translations = {
     "contact.form.send": "Send Message",
 
     // Footer
-    "footer.copyright": "© 2024 Tabsiya Yegurage Kitfo. All rights reserved.",
+    "footer.copyright": "© 2024 Jeforenda Yegurage Kitfo. All rights reserved.",
     "footer.quickLinks": "Quick Links",
   },
   am: {
@@ -67,7 +67,7 @@ const translations = {
     "nav.contact": "አድራሻ",
 
     // Hero Section
-    "hero.title": "ታብሲያ የጉራጌ ክትፎ",
+    "hero.title": "ጀፎረንዳ የጉራጌ ክትፎ",
     "hero.subtitle": "ምርጥ የጉራጌ ክትፎ ቤት",
     "hero.description": "በሞቅ እና አቀባባይ ሬስቶራንታችን ውስጥ የባህላዊ የኢትዮጵያ ምግብ ሀብታም ጣዕም ያግኙ።",
     "hero.viewMenu": "ምግብ ዝርዝር ይመልከቱ",
@@ -106,7 +106,7 @@ const translations = {
     "contact.form.send": "መልእክት ላክ",
 
     // Footer
-    "footer.copyright": "© 2024 ጣብሲያ የጉራጌ ክትፎ። ሁሉም መብቶች የተጠበቁ ናቸው።",
+    "footer.copyright": "© 2024 ጀፎረንዳ የጉራጌ ክትፎ። ሁሉም መብቶች የተጠበቁ ናቸው።",
     "footer.quickLinks": "ፈጣን አገናኞች",
   },
   gu: {
@@ -116,7 +116,7 @@ const translations = {
     "nav.contact": "አድራሻ",
 
     // Hero Section
-    "hero.title": "ጣብሲያ የጉራጌ ክትፎ",
+    "hero.title": "ጀፎረንዳ የጉራጌ ክትፎ",
     "hero.subtitle": "ትክክለኛ የጉራጌ ክትፎ ልምድ",
     "hero.description": "በሞቅ እና አቀባባይ ሬስቶራንታችን ውስጥ የባህላዊ የጉራጌ ምግብ ሀብታም ጣዕም ያግኙ።",
     "hero.viewMenu": "ምግብ ዝርዝር ይመልከቱ",
@@ -155,7 +155,7 @@ const translations = {
     "contact.form.send": "መልእክት ላክ",
 
     // Footer
-    "footer.copyright": "© 2024 ጣብሲያ የጉራጌ ክትፎ። ሁሉም መብቶች የተጠበቁ ናቸው።",
+    "footer.copyright": "© 2024 ጀፎረንዳ የጉራጌ ክትፎ። ሁሉም መብቶች የተጠበቁ ናቸው።",
     "footer.quickLinks": "ፈጣን አገናኞች",
   },
 }

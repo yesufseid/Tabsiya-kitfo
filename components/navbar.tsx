@@ -25,10 +25,10 @@ export default function Navbar() {
         <div className="flex h-16 items-center justify-between">
           <Link href="/" className="flex items-center space-x-2">
             <div className="w-8 h-8 bg-gradient-to-br from-orange-500 to-red-600 rounded-full flex items-center justify-center">
-              <span className="text-white font-bold text-sm">T</span>
+              <span className="text-white font-bold text-sm">J</span>
             </div>
             <span className="font-bold text-lg bg-gradient-to-r from-orange-600 to-red-600 bg-clip-text text-transparent">
-              Tabsiya
+              Jeforeda
             </span>
           </Link>
 
